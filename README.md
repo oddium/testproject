@@ -1,2 +1,2 @@
 # testproject
-test
+test projesinin git ile eşleştiğinin testi
